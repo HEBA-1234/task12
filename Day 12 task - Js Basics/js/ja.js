@@ -100,7 +100,10 @@ getAvg(500,300)
      age: 21,
     gender: "female",
     hobbies : " reading"
+   
+
  }
+
  console.log(heba);
  console.log(fullName);
  
